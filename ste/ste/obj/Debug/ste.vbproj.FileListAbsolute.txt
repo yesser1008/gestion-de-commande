@@ -1,0 +1,71 @@
+C:\Users\yesser\source\repos\ste\ste\obj\Debug\ste.vbprojAssemblyReference.cache
+C:\Users\yesser\source\repos\ste\ste\obj\Debug\ste.Form1.resources
+C:\Users\yesser\source\repos\ste\ste\obj\Debug\ste.Resources.resources
+C:\Users\yesser\source\repos\ste\ste\obj\Debug\ste.vbproj.GenerateResource.cache
+C:\Users\yesser\source\repos\ste\ste\obj\Debug\ste.vbproj.CoreCompileInputs.cache
+C:\Users\yesser\source\repos\ste\ste\bin\Debug\ste.exe.config
+C:\Users\yesser\source\repos\ste\ste\bin\Debug\ste.exe
+C:\Users\yesser\source\repos\ste\ste\bin\Debug\ste.pdb
+C:\Users\yesser\source\repos\ste\ste\bin\Debug\ste.xml
+C:\Users\yesser\source\repos\ste\ste\bin\Debug\Oracle.DataAccess.dll
+C:\Users\yesser\source\repos\ste\ste\obj\Debug\ste.vbproj.CopyComplete
+C:\Users\yesser\source\repos\ste\ste\obj\Debug\ste.exe
+C:\Users\yesser\source\repos\ste\ste\obj\Debug\ste.xml
+C:\Users\yesser\source\repos\ste\ste\obj\Debug\ste.pdb
+C:\Users\yesser\source\repos\ste\ste\obj\Debug\ste.admin.resources
+B:\gestion de la production sur commande\ste\ste\bin\Debug\ste.exe.config
+B:\gestion de la production sur commande\ste\ste\bin\Debug\ste.exe
+B:\gestion de la production sur commande\ste\ste\bin\Debug\ste.pdb
+B:\gestion de la production sur commande\ste\ste\bin\Debug\ste.xml
+B:\gestion de la production sur commande\ste\ste\bin\Debug\Oracle.DataAccess.dll
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.vbprojAssemblyReference.cache
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.admin.resources
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.Form1.resources
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.Resources.resources
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.vbproj.GenerateResource.cache
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.vbproj.CoreCompileInputs.cache
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.vbproj.CopyComplete
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.exe
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.xml
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.pdb
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.technicien.resources
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.commande.resources
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.modifier_client.resources
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.modifier_emp.resources
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.liste_emps.resources
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.articles.resources
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.lignes_com.resources
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.liste_machine.resources
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.Machine.resources
+B:\gestion de la production sur commande\ste\ste\obj\Debug\ste.machine_article.resources
+B:\gestion de la production sur commande\ste\ste\bin\Debug\itextsharp.dll
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\bin\Debug\ste.exe.config
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\bin\Debug\ste.exe
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\bin\Debug\ste.pdb
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\bin\Debug\ste.xml
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\bin\Debug\itextsharp.dll
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\bin\Debug\Oracle.DataAccess.dll
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.vbprojAssemblyReference.cache
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.admin.resources
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.articles.resources
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.commande.resources
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.Form1.resources
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.lignes_com.resources
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.liste_machine.resources
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.Machine.resources
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.machine_article.resources
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.modifier_client.resources
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.modifier_emp.resources
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.Resources.resources
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.liste_emps.resources
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.technicien.resources
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.vbproj.GenerateResource.cache
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.vbproj.CoreCompileInputs.cache
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.vbproj.CopyComplete
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.exe
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.xml
+B:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.pdb
+D:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\bin\Debug\ste.exe.config
+D:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.exe
+D:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.xml
+D:\gestion de la production sur commande\Projet_N°3_Yesser_Kadhi\ste\ste\obj\Debug\ste.pdb

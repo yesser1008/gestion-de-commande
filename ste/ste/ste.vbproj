@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{39AD1D81-3819-4EF1-88C3-61B63F92F8E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ste.My.MyApplication</StartupObject>
+    <RootNamespace>ste</RootNamespace>
+    <AssemblyName>ste</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ste.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ste.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>C:\Users\yesser\Downloads\itextsharp\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.DataAccess, Version=10.2.0.100, Culture=neutral, PublicKeyToken=89b483f429c47342">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\oraclexe\app\oracle\product\10.2.0\server\BIN\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin.Designer.vb">
+      <DependentUpon>admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="article.Designer.vb">
+      <DependentUpon>article.vb</DependentUpon>
+    </Compile>
+    <Compile Include="article.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="commande.Designer.vb">
+      <DependentUpon>commande.vb</DependentUpon>
+    </Compile>
+    <Compile Include="commande.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="impression.Designer.vb">
+      <DependentUpon>impression.vb</DependentUpon>
+    </Compile>
+    <Compile Include="impression.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lignes_com.Designer.vb">
+      <DependentUpon>lignes_com.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lignes_com.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="liste_machine.Designer.vb">
+      <DependentUpon>liste_machine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="liste_machine.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Machine.Designer.vb">
+      <DependentUpon>Machine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Machine.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="machine_article.Designer.vb">
+      <DependentUpon>machine_article.vb</DependentUpon>
+    </Compile>
+    <Compile Include="machine_article.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mode_decconcte.vb" />
+    <Compile Include="modifier_client.Designer.vb">
+      <DependentUpon>modifier_client.vb</DependentUpon>
+    </Compile>
+    <Compile Include="modifier_client.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modifier_emp.Designer.vb">
+      <DependentUpon>modifier_emp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="modifier_emp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="pdf.vb" />
+    <Compile Include="secretaire.Designer.vb">
+      <DependentUpon>secretaire.vb</DependentUpon>
+    </Compile>
+    <Compile Include="secretaire.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="technicien.Designer.vb">
+      <DependentUpon>technicien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="technicien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="admin.resx">
+      <DependentUpon>admin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="article.resx">
+      <DependentUpon>article.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="commande.resx">
+      <DependentUpon>commande.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lignes_com.resx">
+      <DependentUpon>lignes_com.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="liste_machine.resx">
+      <DependentUpon>liste_machine.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Machine.resx">
+      <DependentUpon>Machine.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="machine_article.resx">
+      <DependentUpon>machine_article.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modifier_client.resx">
+      <DependentUpon>modifier_client.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modifier_emp.resx">
+      <DependentUpon>modifier_emp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="secretaire.resx">
+      <DependentUpon>secretaire.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="technicien.resx">
+      <DependentUpon>technicien.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
